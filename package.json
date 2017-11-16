@@ -27,7 +27,8 @@
   "homepage": "https://github.com/sambernard/react-preload",
   "peerDependencies": {
     "react": ">=15.0.0",
-    "react-dom": ">=15.0.0"
+    "react-dom": ">=15.0.0",
+    "prop-types": ">=15.0.0"
   },
   "dependencies": {},
   "devDependencies": {
